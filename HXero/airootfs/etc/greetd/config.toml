@@ -1,0 +1,3 @@
+[default_session]
+user = $USER
+command ="greetwl" > /dev/null 2>&1 
