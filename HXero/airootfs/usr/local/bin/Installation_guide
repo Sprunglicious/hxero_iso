@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+exec lynx 'https://wiki.t2linux.org/distributions/arch/installation/'

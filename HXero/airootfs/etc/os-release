@@ -1,0 +1,10 @@
+NAME="HXero"
+PRETTY_NAME="HXero"
+ID=XeroLinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://hxero.github.io"
+LOGO=HXero
+IMAGE_ID=HXero
+IMAGE_VERSION=09-06-2023
